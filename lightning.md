@@ -11,7 +11,7 @@ const inventory = ["Coats", "Gloves", "Hats", "Scarves"]
 2. Write a function that loops through the `inventory` array and prints each item to the console.
 3. Call the function
 
- #3. 
+ ## 3. 
  1. Copy and paste the following array into your JavaScript file:
  ```
  const detailedInventory = [
